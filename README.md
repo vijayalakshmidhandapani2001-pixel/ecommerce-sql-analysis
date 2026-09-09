@@ -43,3 +43,7 @@ This project explores a real, multi-table e-commerce dataset to answer practical
 ## Project Files
 
 See the `sql/` folder for all queries and table setup scripts.
+
+## Dataset Source
+
+This project uses the [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) from Kaggle.
