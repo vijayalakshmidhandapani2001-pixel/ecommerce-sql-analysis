@@ -35,8 +35,20 @@ This project explores a real, multi-table e-commerce dataset to answer practical
 ### Revenue by State
 ![Revenue by State](q1_revenue_by_state.png)
 
+### Monthly Revenue
+![Monthly Revenue](q2_monthly_revenue.png)
+
+### Growth Rate
+![Growth Rate](q3_growth_rate.png)
+
 ### Top Product Categories
 ![Top Categories](q4_top_categories.png)
+
+### Multi Item Order
+![Multi Item Order](q5_multi_item_orders.png)
+
+### Delivery Time
+![Delivery Time](q6_delivery_time.png)
 
 ### Customer Spending Ranking
 ![Customer Ranking](q7_customer_ranking.png)
