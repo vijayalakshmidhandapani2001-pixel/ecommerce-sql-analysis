@@ -25,9 +25,22 @@ This project explores a real, multi-table e-commerce dataset to answer practical
 | Geolocation | 1,000,163 |
 | Category Translation | 71 |
 
+## Database Schema
+
+![ER Diagram](screenshots/er_diagram.png)
+
 ## Key Findings
 
 - **Revenue by state:** São Paulo (SP) is Olist's dominant market, generating $3.94M in revenue across 15,433 orders — more than 3x the next-highest state (Rio de Janeiro at $1.3M) — highlighting significant revenue concentration in Brazil's most populous state.
+
+### Revenue by State
+![Revenue by State](screenshots/q1_revenue_by_state.png)
+
+### Top Product Categories
+![Top Categories](screenshots/q4_top_categories.png)
+
+### Customer Spending Ranking
+![Customer Ranking](screenshots/q7_customer_ranking.png)
 
 ## Skills Demonstrated
 
